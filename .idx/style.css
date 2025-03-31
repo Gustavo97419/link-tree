@@ -23,6 +23,7 @@ body {
     justify-content: center;
     align-items: center;
 }
+
 div {
     background-color: var(--dark-grey);
     color: var(--white);
@@ -35,11 +36,13 @@ div {
  ul,li {
     list-style: none;
 }
+
 img{
     width: 88px;
     border-radius: 50px;
     margin-bottom: 24px;
 }
+
 h1 {
  font-size: 24px;
  font-weight: 600;
@@ -52,11 +55,13 @@ font-size: 14px;
 color: var(--neon-green);
 line-height: 150%;
 }
+
 p { 
     margin-block: 24px;
     font-size: 14px;
     line-height: 150%;
 }
+
 a{ 
     display:block ;
     color:var(--white);
@@ -68,6 +73,7 @@ a{
     font-size: 14px;
     font-weight: 700;
 }
+
 a:hover{ 
     background-color: var(--neon-green);
      color: var(--grey);
